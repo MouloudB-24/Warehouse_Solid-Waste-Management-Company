@@ -16,4 +16,4 @@ GROUP BY ROLLUP (
 ORDER BY
 d.year,
 s.city,
-s.station;
+s.station_id;
